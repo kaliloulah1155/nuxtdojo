@@ -1,1 +1,1 @@
-Projet realisé avec nuxt 3 
+Projet realisé avec nuxt 3

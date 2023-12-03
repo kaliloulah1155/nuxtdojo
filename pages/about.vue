@@ -7,7 +7,7 @@
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis ipsa odit praesentium iste iusto distinctio
             officia magnam magni aperiam sed pariatur natus quasi obcaecati, perferendis alias tenetur numquam eligendi
             corrupti?</p>
-           {{ data }}
+          Api d'affchage des currencies {{ data }}
     </div>
 </template>
 
